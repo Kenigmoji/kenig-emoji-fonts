@@ -15,10 +15,10 @@ NAME_ID_POSTSCRIPT_NAME = 6
 
 
 _NAME_VALUES = [
-    (NAME_ID_FAMILY, "Noto Color Emoji Flags"),
-    (NAME_ID_UNIQUE_ID, "Noto Color Emoji Flags"),
-    (NAME_ID_FULLNAME, "Noto Color Emoji Flags"),
-    (NAME_ID_POSTSCRIPT_NAME, "NotoColorEmojiFlags"),
+    (NAME_ID_FAMILY, "Kenig Color Emoji Flags"),
+    (NAME_ID_UNIQUE_ID, "Kenig Color Emoji Flags"),
+    (NAME_ID_FULLNAME, "Kenig Color Emoji Flags"),
+    (NAME_ID_POSTSCRIPT_NAME, "KenigColorEmojiFlags"),
 ]
 
 
